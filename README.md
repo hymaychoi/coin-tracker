@@ -1,5 +1,7 @@
-# coin-tracker
-crypto currency converter based on USD
+# Coin-tracker app
+crypto currency converter based on USD using ReactJS
 
-## live demo
+## Live demo
 https://replit.com/@HyoyeonChoi/TheCoinTracker#src/App.jsx
+
+## Screenshot
